@@ -1,0 +1,12 @@
+[package]
+name = "lighthouse"
+version = "1.0.0"
+authors = ["Emil Englesson <englesson.emil@gmail.com>"]
+edition = "2018"
+description = "Lighthouse is a simple utility to help guide your programs to safe ports"
+repository = "https://github.com/LimeEng/lighthouse/"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
